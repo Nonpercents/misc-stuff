@@ -1,5 +1,6 @@
 from math import *
 
+#original release date June 23, 2022
 #some source: https://forum.spaceengine.org/viewtopic.php?t=69
 
 def c(n): #str hex to str dec converter
